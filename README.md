@@ -11,9 +11,9 @@ Dependencies:  Using  both EF Core migrations files and Dapper which is an ORM (
 
 Running the Project: 
 1.	Install required Tools: Ensure you have the .NET SDK installed on your system. You can download it from the official .NET website.
-2.	 Open the solution in visual studio or navigate to the project directry in visual studio code.
+2.	 Open the solution in visual studio or navigate to the project directry in visual studio code(EmployeeProductData).
 3.	Build the project by clicking on the build option or running dotnet build command in the terminal.
-4.	Once the build is successful, you can run the project.   
+4.	Once the build is successful, you can run the project, click on this page (ProductModelsController.cs).  
 5.	In Visual Studio, you can press F5 to run/debug the project.
 Access the Application:
 Open a web browser and navigate to the URL where your application is running (usually https://localhost:port/).
